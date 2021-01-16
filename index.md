@@ -22,7 +22,7 @@ To be updated.
 | Atomistic Simulations                   | 2010-2019 |
 | [Physical Mechanics](https://github.com/xuzhiping/physical_mechanics)                      | 2012-     |
 | [Elasticity of Curves and Surfaces](https://github.com/xuzhiping/elasticity_of_curves_surfaces)       | 2020-     |
-| Winter School for Multiscale Mechanics  | 2021      |
+| [Winter School for Multiscale Mechanics](https://github.com/xuzhiping/multiscale_winterschool_2021)  | 2021      |
 
 ### Alumni
 
