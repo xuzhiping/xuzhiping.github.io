@@ -21,6 +21,7 @@ Email: [xuzp at tsinghua.edu.cn](mailto:xuzp@tsinghua.edu.cn)
 | Elasticity of Curves and Surfaces | 2020-     |
 
 ### Group Alumni
+|--------------|-----------------------------|-----------|
 | Ke Zhou      | Xi'an Jiaotong University   | 2015-2020 |
 | Shuping Jiao | Shanghai University         | 2013-2018 |
 | Enlai Gao    | Wuhan University            | 2013-2018 |
