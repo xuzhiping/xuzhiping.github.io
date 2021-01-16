@@ -15,16 +15,12 @@ Email: [xuzp at tsinghua.edu.cn](mailto:xuzp@tsinghua.edu.cn)
 
 
 ### Teaching
-|                                   |           |
-|:----------------------------------|:----------|
 | Mechanics of Materials            | 2010-2020 |
 | Atomistic Simulations             | 2010-2019 |
 | Physical Mechanics                | 2012-     |
 | Elasticity of Curves and Surfaces | 2020-     |
 
 ### Group Alumni
-|              |                             |           |
-|:-------------|:----------------------------|:----------|
 | Ke Zhou      | Xi'an Jiaotong University   | 2015-2020 |
 | Shuping Jiao | Shanghai University         | 2013-2018 |
 | Enlai Gao    | Wuhan University            | 2013-2018 |
