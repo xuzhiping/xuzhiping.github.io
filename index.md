@@ -16,13 +16,13 @@ To be updated.
 
 ### Teaching
 
-|<!--                                  -->|<!--    -->|
-|:----------------------------------------|:----------|
-| Mechanics of Materials                  | 2010-     |
-| Atomistic Simulations                   | 2010-2019 |
-| [Physical Mechanics](https://github.com/xuzhiping/physical_mechanics)                      | 2012-     |
-| [Elasticity of Curves and Surfaces](https://github.com/xuzhiping/elasticity_of_curves_surfaces)       | 2020-     |
-| [Winter School for Multiscale Mechanics](https://github.com/xuzhiping/multiscale_winterschool_2021)  | 2021      |
+|<!--                                 -->|<!--    -->|
+|:---------------------------------------|:----------|
+| Mechanics of Materials                 | 2010-     |
+| Atomistic Simulations                  | 2010-2019 |
+| [Physical Mechanics](https://github.com/xuzhiping/physical_mechanics)                     | 2012-     |
+| [Elasticity of Curves and Surfaces](https://github.com/xuzhiping/elasticity_of_curves_surfaces)      | 2020-     |
+| [Winter School on Multiscale Mechanics](https://github.com/xuzhiping/multiscale_winterschool_2021)  | 2021      |
 
 ### Alumni
 
