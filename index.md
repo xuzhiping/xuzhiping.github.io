@@ -12,9 +12,10 @@ Email: [xuzp at tsinghua.edu.cn](mailto:xuzp@tsinghua.edu.cn)
 
 ### Research
 
-
+To be updated.
 
 ### Teaching
+
 |<!--                            -->|<!--    -->|
 |:----------------------------------|:----------|
 | Mechanics of Materials            | 2010-     |
@@ -23,6 +24,7 @@ Email: [xuzp at tsinghua.edu.cn](mailto:xuzp@tsinghua.edu.cn)
 | Elasticity of Curves and Surfaces | 2020-     |
 
 ### Group Alumni
+
 |<!-- -->|<!-- -->|<!-- -->|
 |:-------------|:----------------------------|:----------|
 | Ke Zhou      | Xi'an Jiaotong University   | 2015-2020 |
