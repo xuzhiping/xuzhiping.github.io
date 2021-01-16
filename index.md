@@ -27,15 +27,15 @@ To be updated.
 
 |<!-- -->|<!-- -->|<!-- -->|
 |:-------------|:----------------------------|:----------|
-| Ke Zhou      | Xi'an Jiaotong University   | 2015-2020 |
-| Shuping Jiao | Shanghai University         | 2013-2018 |
-| Enlai Gao    | Wuhan University            | 2013-2018 |
-| Yanlei Wang  | Chinese Academy of Sciences | 2012-2017 |
+| [Ke Zhou](http://www.xjtu.edu.cn/)      | Xi'an Jiaotong University   | 2015-2020 |
+| [Shuping Jiao](https://smes.shu.edu.cn/info/1035/1066.htm) | Shanghai University         | 2013-2018 |
+| [Enlai Gao](http://enlaigao.whu.edu.cn/)    | Wuhan University            | 2013-2018 |
+| [Yanlei Wang](http://www.ipe.cas.cn/)  | Chinese Academy of Sciences | 2012-2017 |
 | Yu Wan       |                             | 2012-2017 |
 | Cheng Chang  |                             | 2012-2017 |
 | Zhigong Song | A\*STAR                     | 2011-2016 |
-| Anle Wang    | Universität des Saarlandes  | 2011-2016 |
+| [Anle Wang](https://www.lmp.uni-saarland.de/index.php/group/)    | Universität des Saarlandes  | 2011-2016 |
 | Bo Xie       |                             | 2007-2015 |
-| Ning Wei     | Jiangnan University         | 2012-2014 |
-| Chao Wang    | Chinese Academy of Sciences | 2012-2014 |
+| [Ning Wei](http://sme.jiangnan.edu.cn/index.htm)     | Jiangnan University         | 2012-2014 |
+| [Chao Wang](http://sourcedb.imech.cas.cn/zw/rck0/fgjzj/fxxlx/201409/t20140912_4201371.html)    | Chinese Academy of Sciences | 2012-2014 |
 
