@@ -38,4 +38,6 @@ To be updated.
 | Bo Xie       |                             | 2007-2015 |
 | [Ning Wei](http://sme.jiangnan.edu.cn/index.htm)     | Jiangnan University         | 2012-2014 |
 | [Chao Wang](http://sourcedb.imech.cas.cn/zw/rck0/fgjzj/fxxlx/201409/t20140912_4201371.html)    | Chinese Academy of Sciences | 2012-2014 |
+| Chao Chen    | University of Massachusetts | 2010-2011 |
+| [Yilun Liu](http://gr.xjtu.edu.cn/web/yilunliu)    | Xi'an Jiaotong University   | 2010-2011 |
 
