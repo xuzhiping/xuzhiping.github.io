@@ -17,7 +17,7 @@ Email: [xuzp at tsinghua.edu.cn](mailto:xuzp@tsinghua.edu.cn)
 ### Teaching
 |<!--                            -->|<!--    -->|
 |:----------------------------------|:----------|
-| Mechanics of Materials            | 2010-2020 |
+| Mechanics of Materials            | 2010-     |
 | Atomistic Simulations             | 2010-2019 |
 | Physical Mechanics                | 2012-     |
 | Elasticity of Curves and Surfaces | 2020-     |
